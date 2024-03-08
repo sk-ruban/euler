@@ -10,4 +10,4 @@ func multiples(_ first: Int, _ second: Int, _ limit: Int) -> Int {
     return count
 }
 
-print(multiples(3, 5, 1000))
+print(multiples(3, 5, 1000)) // 233168 in 0.134s

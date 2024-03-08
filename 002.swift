@@ -13,4 +13,4 @@ func sum_even_fib(limit: Int) -> Int {
     return count
 }
 
-print(sum_even_fib(limit: 4000000))
+print(sum_even_fib(limit: 4000000)) // 4613732 in 0.125s

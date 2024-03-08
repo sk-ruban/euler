@@ -1,7 +1,7 @@
 // Lattice Paths
 
 func latticePaths(_ rows: Int, _ cols: Int) -> Double {
-    return factorial(rows + cols) / (factorial(cols) * factorial(cols))
+    return factorial(rows + cols) / (factorial(rows) * factorial(cols))
     
 }
 

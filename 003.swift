@@ -15,4 +15,4 @@ func largestPrimeFactor(_ number: Int) -> Int {
     return i
 }
 
-print(largestPrimeFactor(600851475143))
+print(largestPrimeFactor(600851475143)) // 6857 in 0.131s
