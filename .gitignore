@@ -1,0 +1,6 @@
+# Haskell build
+.stack-work/
+dist/
+
+# OS
+.DS_Store

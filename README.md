@@ -1,2 +1,2 @@
 # euler
-Project Euler Solutions in Swift
+Project Euler Solutions in Haskell
